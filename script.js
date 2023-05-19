@@ -11,7 +11,7 @@ range.addEventListener('input', function() {
 
 let kendaraan = [];
 
-fetch('database/unit.json')
+fetch('https://cdn.jsdelivr.net/gh/fesaone/simplekredit/unit.json')
 	.then(response => response.json())
 	.then(data => {
 	kendaraan = data.kendaraan;
