@@ -14,10 +14,10 @@ body {
 
 .fesaform {
   background: rgb(255, 255, 255);
-  border: 0px solid #0000000d;
+  border: 1px solid #0000000d;
   border-bottom: 0px;
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .fesatitle {
@@ -101,7 +101,7 @@ img#gambarKendaraan {
   border: 1px solid #0000000d;
   border-top: 0px;
   border-radius: 0px;
-  padding: 10px;
+  padding: 20px;
 }
 
 #hasilSimulasi span {
